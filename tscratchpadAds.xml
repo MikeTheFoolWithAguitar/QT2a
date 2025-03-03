@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/Images/logo.jpg</ImageUrl>
+    <NavigateUrl>https://qualifiedtruckers.com</NavigateUrl>
+    <AlternateText>
+      Ad 1
+    </AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>DOT Compliance</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/greenlight.gif</ImageUrl>
+    <NavigateUrl>https://qualifiedtruckers.com</NavigateUrl>
+    <AlternateText>
+      Ad 2
+    </AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>DOT Compliance</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/redlight.gif</ImageUrl>
+    <NavigateUrl>https://qualifiedtruckers.com</NavigateUrl>
+    <AlternateText>
+      Ad 1
+    </AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>DOT Compliance</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/yellowlight.gif</ImageUrl>
+    <NavigateUrl>https://qualifiedtruckers.com</NavigateUrl>
+    <AlternateText>
+      Ad 4
+    </AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>DOT Compliance</Keyword>
+  </Ad>
+</Advertisements>
